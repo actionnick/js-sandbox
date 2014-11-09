@@ -1,3 +1,3 @@
 var React = require('react');
 
-alert("Change this to see livereloading in action.");
+alert("Change this to see live reloading in progress");
