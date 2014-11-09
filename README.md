@@ -11,5 +11,5 @@ js-sandbox comes with express js web server with live reload. This allows you to
 - Download and unpack zip file from the `builds` directory.
 - Run `npm install`.
 - Run `grunt web` to bring up a webserver with livereload enabled.
-- Enable livereload from the browser by clicking on the extension icon.
+- Enable livereload from the browser by clicking on the extension icon ![click livereload](https://www.evernote.com/shard/s351/sh/46fdd789-342b-4238-928c-b58c292d0210/383ebe016a88053393f415c751f8f4f0/deep/0/New-File.png)
 - Edit the alert in `js/frontend/example/main.js` to see livereload in action!
